@@ -1,5 +1,5 @@
-import './styles/reset.css';
-import './styles/globals.css';
+import './reset.css';
+import './globals.css';
 import type {ReactNode} from 'react';
 
 export const metadata = {
